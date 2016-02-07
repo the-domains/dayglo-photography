@@ -1,0 +1,28 @@
+name: DayGlo Photography
+favicon: null
+layout_spectrum: 0.6007699337787926
+typography_spectrum: 0.00008720299229025841
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5616375142708421
+  lightness: 0.6695655439980328
+  saturation: 0.9472409086301923
+  rhythmicContrast: 0.013802108587697148
+purpose: []
